@@ -17,7 +17,7 @@ h1 {
 
 .events {
     width: 80%;
-    background-color:#F05033;
+    background-color: black;
     border-radius: 15px;
     display: flex;
     justify-content: space-around;
@@ -67,19 +67,19 @@ h1 {
 .access-button {
     padding: 15px 30px 15px 30px;
     margin-top: 5px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     margin-left: 125px;
     font-size: 18px;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #F05033;
+    background-color: gray;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
     transition: .2s;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .access-button:hover {
     cursor: pointer;
-    transform: scale(105%);
+    transform: scale(30%);
 }
