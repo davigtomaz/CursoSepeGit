@@ -60,26 +60,27 @@ h1 {
 }
 
 .date-hour-place {
-    text-align: right;
+    text-align: center;
     margin-right: 50px;
 }
 
 .access-button {
+    
     padding: 15px 30px 15px 30px;
     margin-top: 5px;
     margin-bottom: 20px;
-    margin-left: 125px;
+    margin-left: 180px;
     font-size: 18px;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #F05033;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
     transition: .2s;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .access-button:hover {
     cursor: pointer;
-    transform: scale(105%);
+    transform: scale(50%);
 }
