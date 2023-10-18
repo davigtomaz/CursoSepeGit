@@ -60,11 +60,12 @@ h1 {
 }
 
 .date-hour-place {
-    text-align: right;
+    text-align: center;
     margin-right: 50px;
 }
 
 .access-button {
+    
     padding: 15px 30px 15px 30px;
     margin-top: 5px;
     margin-bottom: 30px;
